@@ -64,14 +64,14 @@ ul li:hover a {
 }
 .socials {
 	position: fixed;
-	padding: 10px;
+	padding: 1%;
 }
 .spacer {
-	padding: 8px;
+	padding: 1%;
 }
 .socialcircle {
 	border-radius: 100;
-	max-width: 50px;
+	max-width: 5%;
 }
 .hero_header {
 	color: #FFFFFF;
@@ -81,7 +81,7 @@ ul li:hover a {
 	margin-bottom: 0px;
 	margin-left: 0px;
 	letter-spacing: 4px;
-	font-size: 15px;
+	font-size: 100%;
 }
 /* Hero Section */
 .hero {
