@@ -62,17 +62,14 @@ ul li a {
 ul li:hover a {
 	color: #2C9AB7;
 }
-.socialcircle {
-	padding: 20px;
-	border-radius: 0;
-	max-width: 50px;
+.socials {
 	position: fixed;
+	padding: 10px;
 }
-#twitter {
-	padding-left: 90PX;
-}
-#instagram {
-	padding-left: 160px;
+.socialcircle {
+	padding-left: 15px;
+	border-radius: 100;
+	max-width: 50px;
 }
 .hero_header {
 	color: #FFFFFF;
