@@ -80,8 +80,8 @@ ul li:hover a {
 	margin-right: 0px;
 	margin-bottom: 0px;
 	margin-left: 0px;
-	letter-spacing: 4px;
-	font-size: 100%;
+	letter-spacing: 0.2vw;
+	font-size: 1vw;
 }
 /* Hero Section */
 .hero {
